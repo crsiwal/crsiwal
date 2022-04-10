@@ -87,6 +87,21 @@ Please adhere to project's `code of conduct`.
 [![Buy me chai](https://i.ibb.co/Xkdj83y/image-2.png)](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500)
 
 #### User From Outside India Can support here
+
+If you have found anything useful and you want to support me, then [Buy me a Coffee](https://www.buymeacoffee.com/rsiwal)
+
+[buymeacoffee](https://www.buymeacoffee.com/rsiwal) is a website that contacts developers, designers, artists, etc. with their communities so that people can express appreciation for their work.
+
+If you want to contribute feel free to do it at [Buy me a coffee! ☕](https://www.buymeacoffee.com/rsiwal), and many thanks in advance.
+
+For as we well know
+
+var code = developer + caffeine
+
+😁
+
+ps. Jam doughnut are also a perfectly acceptable sign of appreciation 🍩
+
 <a href="https://www.buymeacoffee.com/rsiwal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy a coffee for me&emoji=&slug=rsiwal&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ## 🤝 Connect with me
