@@ -79,8 +79,6 @@ Please adhere to project's `code of conduct`.
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=crsiwal)](https://github.com/crsiwal)
 
-[![](https://komarev.com/ghpvc/?username=crsiwal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/crsiwal)
-
 ## A supporter is worth a thousand followers.
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/rsiwal) is a modern support platform. It will take a minute of you to give support to me which will encourage me to write something new for the web and it may be your next profit business.
@@ -114,3 +112,17 @@ If you have any feedback, please reach out to me at rsiwal@yahoo.com
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Rahul Siwal](https://github.com/crsiwal) has waived all copyright and related or neighboring rights to this work.
+
+<div style="display:hidden;">
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
+  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>  
+</div>
