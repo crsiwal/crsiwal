@@ -81,9 +81,15 @@ Please adhere to project's `code of conduct`.
 
 ## A supporter is worth a thousand followers.
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/rsiwal) is a modern support platform. It will take a minute of you to give support to me which will encourage me to write something new for the web and it may be your next profit business.
+[Buy Me a Coffee](https://www.buymeacoffee.com/rsiwal) or [Buy Me a Chai](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500) is a modern support platform. It will take a minute of you to give support to me which will encourage me to write something new for the web and it may be your next profit business.
 
+#### User From India Can support here
+[![Buy me chai](https://i.ibb.co/Xkdj83y/image-2.png)](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500)
+
+#### User From Outside India Can support here
 [![](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/rsiwal)
+
+
 ## 🤝 Connect with me
 
 [![](https://img.shields.io/badge/Profile-Twitter-1DA1F2?style=flat&logo=twitter&color=336791&logoColor=white)](https://twitter.com/rahulsiwal)
