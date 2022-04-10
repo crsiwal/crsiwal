@@ -81,18 +81,11 @@ Please adhere to project's `code of conduct`.
 
 ## A supporter is worth a thousand followers.
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/rsiwal) or [Buy Me a Chai](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500) is a modern support platform. It will take a minute of you to give support to me which will encourage me to write something new for the web and it may be your next profit business.
+If you have found anything useful and you want to support me, then Buy me a [Coffee](https://www.buymeacoffee.com/rsiwal) or [Chai](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500)
 
-#### User From India Can support here
-[![Buy me chai](https://i.ibb.co/Xkdj83y/image-2.png)](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500)
+[Buy Me a Coffee](https://www.buymeacoffee.com/rsiwal) or [Buy Me a Chai](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500) is a modern support platform by people can express appreciation for someone work. It will take a minute of you to give a appreciation to me which will encourage me to write something new for the web and it may be your next profit business.
 
-#### User From Outside India Can support here
-
-If you have found anything useful and you want to support me, then [Buy me a Coffee](https://www.buymeacoffee.com/rsiwal)
-
-[buymeacoffee](https://www.buymeacoffee.com/rsiwal) is a website that contacts developers, designers, artists, etc. with their communities so that people can express appreciation for their work.
-
-If you want to contribute feel free to do it at [Buy me a coffee! ☕](https://www.buymeacoffee.com/rsiwal), and many thanks in advance.
+If you want to contribute feel free to do it at Buy me a [Coffee](https://www.buymeacoffee.com/rsiwal) or [Chai](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500), and many thanks in advance.
 
 For as we well know
 
@@ -101,6 +94,11 @@ var code = developer + caffeine
 😁
 
 ps. Jam doughnut are also a perfectly acceptable sign of appreciation 🍩
+
+#### User From India Can support here
+[![Support From India](https://i.ibb.co/Xkdj83y/image-2.png)](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500)
+
+#### User From Outside India Can support here
 
 <a href="https://www.buymeacoffee.com/rsiwal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy a coffee for me&emoji=&slug=rsiwal&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
