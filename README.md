@@ -87,8 +87,7 @@ Please adhere to project's `code of conduct`.
 [![Buy me chai](https://i.ibb.co/Xkdj83y/image-2.png)](https://getmechai.vercel.app/link.html?vpa=rsiwal@upi&nm=Rahul+Siwal&amt=500)
 
 #### User From Outside India Can support here
-[![](https://img.buymeacoffee.com/button-api/?text=Buy a coffee for me&emoji=&slug=rsiwal&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/rsiwal)
-
+<a href="https://www.buymeacoffee.com/rsiwal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy a coffee for me&emoji=&slug=rsiwal&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ## 🤝 Connect with me
 
