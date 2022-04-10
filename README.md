@@ -113,16 +113,5 @@ If you have any feedback, please reach out to me at rsiwal@yahoo.com
 
 To the extent possible under law, [Rahul Siwal](https://github.com/crsiwal) has waived all copyright and related or neighboring rights to this work.
 
-<div style="display:hidden;">
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>
-  <img src="https://komarev.com/ghpvc/?username=crsiwal"/>  
-</div>
+<img style="display:hidden;" src="https://komarev.com/ghpvc/?username=crsiwal"/>
+<img style="display:hidden;" src="https://komarev.com/ghpvc/?username=crsiwal"/>
