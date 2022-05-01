@@ -36,11 +36,18 @@ I'm a full stack developer...
 
 #### Programming
 
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&color=339933) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=react&color=474A8A) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&color=339933) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=react&color=474A8A) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+
+#### DBMS
+
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791) ![](https://img.shields.io/badge/DBMS-BigQuery-informational?style=flat&logo=GoogleCloud&color=4285F4)
 
 #### Styling
 
 ![](https://img.shields.io/badge/Style-tailwindcss-informational?style=flat&logo=tailwindcss&color=38bdf8) ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3) ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6) ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+
+#### Cloud Services
+AWS , GOOGLE Cloud
 
 #### Tools
 
