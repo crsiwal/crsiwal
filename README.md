@@ -14,23 +14,23 @@ I'm a full stack developer...
 
 [![Profile](https://github-profile-trophy.vercel.app/?username=crsiwal)](https://github.com/crsiwal)
 
-- 🔭 I’m currently working on **Web Attribution SDK**
+- 🔭 I’m currently working on **Web Analytics SDK**
 
 - 🌱 I’m currently learning **React Framework for web and Apps also**
 
-- 👯 I’m looking to collaborate on **Ecommerce Product**
+- 👯 I’m looking to collaborate on **Attribution, Analytics or Ecommerce Product**
 
-- 👨‍💻 All of my projects are available at [https://github.com/crsiwal](https://github.com/crsiwal)
+- 👨‍💻 All of my work are available at [https://www.rsiwal.com/project](https://www.rsiwal.com/project)
 
-- 📝 I regularly write articles on [https://www.rsiwal.com](https://www.rsiwal.com)
+- 📝 I regularly works on [https://github.com/crsiwal](https://github.com/crsiwal)
 
 - 💬 You can ask me about **React, Node JS, PHP, SQL, HTML, CSS, JavaScript**
 
-- 📫 How you can reach me **rsiwal@yahoo.com**
+- 📫 You can reach me **rsiwal@yahoo.com**
 
-- 📄 Know about my experiences [https://github.com/crsiwal](https://github.com/crsiwal)
+- 📄 You can reffrer to my [Portfolio](https://github.com/crsiwal) to know about my experiences 
 
-- ⚡ Fun fact **I am S-KILLED Developer :P**
+- ⚡ Fun fact **I am S-KILLED Developer 😛**
 
 ## 🛠 Technical Skills
 
@@ -47,7 +47,7 @@ I'm a full stack developer...
 ![](https://img.shields.io/badge/Style-tailwindcss-informational?style=flat&logo=tailwindcss&color=38bdf8) ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3) ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6) ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
 #### Cloud Services
-![](https://img.shields.io/badge/Cloud-AmazonAWS-informational?style=flat&logo=AmazonAWS&color=232F3E) ![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=GoogleCloud&color=4285F4) ![](https://img.shields.io/badge/Cloud-AmazonS3-informational?style=flat&logo=AmazonS3&color=569A31)
+![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=GoogleCloud&color=4285F4) ![](https://img.shields.io/badge/Cloud-AmazonAWS-informational?style=flat&logo=AmazonAWS&color=232F3E) ![](https://img.shields.io/badge/Cloud-AmazonS3-informational?style=flat&logo=AmazonS3&color=569A31)
 
 #### Tools
 
