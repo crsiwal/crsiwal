@@ -26,7 +26,7 @@ I'm a full stack developer...
 
 - 💬 You can ask me about **React, Node JS, PHP, SQL, HTML, CSS, JavaScript**
 
-- 📫 You can reach me **rsiwal@yahoo.com**
+- 📫 You can reach me **rsiwaltech@gmail.com**
 
 - 📄 You can reffrer to my [Portfolio](https://github.com/crsiwal) to know about my experiences 
 
@@ -113,7 +113,7 @@ ps. Jam doughnut are also a perfectly acceptable sign of appreciation 🍩
 
 ## Feedback
 
-If you have any feedback, please reach out to me at rsiwal@yahoo.com
+If you have any feedback, please reach out to me at rsiwaltech@gmail.com
 
 ## License
 
